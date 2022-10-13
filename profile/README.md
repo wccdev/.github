@@ -1,4 +1,4 @@
-## 我查查研发团队 👋
+## Wochacha development team 👋
 
 <!--
 
